@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">input_nilai_intent</string>
+    <string name="output">HASIL INPUT NILAI</string>
+    <string name="nim">NIM :</string>
+    <string name="nama">NAMA :</string>
+    <string name="nilai">NILAI :</string>
+</resources>
